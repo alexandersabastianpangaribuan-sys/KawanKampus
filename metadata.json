@@ -1,0 +1,6 @@
+{
+  "name": "KawanKampus.id",
+  "description": "Lebih dari Sekadar Marketplace. Teman Terbaik Setiap Langkah di Dunia Kampus. Platform mahasiswa untuk jual-beli barang bekas (Kawan Market), layanan resmi tugas & skripsi PPT, SPSS, Turnitin, Parafrase, Excel (Kawan Jasa), dan pusat info beasiswa & event (Kawan Komunitas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
